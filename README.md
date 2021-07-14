@@ -16,5 +16,8 @@ Se desea que haga lo siguiente:
 1.	Crear un script con la estructura y datos.
 2.	Crear un CRUD que permita: listar las actividades, crear una actividad llenando los campos incluyendo el empleado asignado, editar la actividad y eliminarla.
 
+![image](https://user-images.githubusercontent.com/44630882/125553300-fe3e9a67-2fcc-4360-ba25-3c73a7436758.png)
+
+
 
 
