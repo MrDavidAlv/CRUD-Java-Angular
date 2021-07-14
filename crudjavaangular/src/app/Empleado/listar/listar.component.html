@@ -1,0 +1,37 @@
+<div class="cotainer">
+    <div class="card">
+        <div class="card-header" style="text-align: center">
+            <h3>Actividades</h3>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover"  style="text-align: center">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>NOMBRES</th>
+                        <th>ACTIVIDAD</th>
+                        <th>F. ASIGNACION</th>
+                        <th>F. EJECUCION</th>
+                        <th>ESTADO</th>
+                        <th>ACCIONES</th>
+                    </tr>
+                </thead>
+                <tbody >
+                    <tr *ngFor="let empleado of empleados" >
+                        <td>{{empleado.id}}</td>
+                        <td>{{empleado.name}}</td>
+                        <td>{{empleado.activity}}</td>
+                        <td>{{empleado.data1}}</td>
+                        <td>{{empleado.data2}}</td>
+                        <td>{{empleado.estado}}</td>
+                        <td> 
+                            <button class="btn btn-success">Editar</button>
+                            <button class="btn btn-danger" style="margin: 10px;">Borrar</button>
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table >
+        </div>
+    </div>
+</div>

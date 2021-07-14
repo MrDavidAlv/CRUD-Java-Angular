@@ -1,0 +1,21 @@
+<div style="text-align: center">
+  <h1>
+    Bienvenido a {{title}}
+    <br>
+    <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular Logo">
+  </h1>
+</div>
+
+<div class="cointainer" style="text-align: center">
+  <button (click)="Listar()" class="btn btn-info" style="width: 70px">Lista</button>
+  <button (click)="Nuevo()" class="btn btn-info" style="margin-left: 40px;  width: 70px" >Nuevo</button>
+</div>
+
+<router-outlet></router-outlet>
+
+<br><br><br><br><br>
+<footer class="page-footer font-small blue pt-4" style="text-align: center" >
+  <p>Created by: MrDavidAlv</p><p>Contact information: 
+    <a href="ing.marioalvarezvallejo@gmail.com">
+  ing.marioalvarezvallejo@gmail.com</a>.</p>
+</footer>
