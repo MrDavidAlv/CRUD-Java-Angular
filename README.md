@@ -17,6 +17,7 @@ Se desea que haga lo siguiente:
 2.	Crear un CRUD que permita: listar las actividades, crear una actividad llenando los campos incluyendo el empleado asignado, editar la actividad y eliminarla.
 
 ![image](https://user-images.githubusercontent.com/44630882/125553300-fe3e9a67-2fcc-4360-ba25-3c73a7436758.png)
+![image](https://user-images.githubusercontent.com/44630882/125663189-03711ece-f5fd-40ad-bfa8-3941b28fa619.png)
 
 ![image](https://user-images.githubusercontent.com/44630882/125628804-e9499e25-c493-4782-abe9-8c4aa69cdca6.png)
 
