@@ -18,6 +18,9 @@ Se desea que haga lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/44630882/125553300-fe3e9a67-2fcc-4360-ba25-3c73a7436758.png)
 
+![image](https://user-images.githubusercontent.com/44630882/125628804-e9499e25-c493-4782-abe9-8c4aa69cdca6.png)
+
+
 
 
 
